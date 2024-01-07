@@ -17,7 +17,7 @@ TIP: change language at ~/.cubewhy/lunarcn/celestial.json, "zh" -> Chinese;
 "" -> English
 
 1. Click `next` to switch to the Version & Launch page
-2. Add [Weave-Loader](https://github.com/Weave-MC/Weave-Loader/releases) as a Javaagents
+2. Add [Weave-Loader](https://github.com/Weave-MC/Weave-Loader/releases) as a Javaagent
 3. Click `Weave Mods`
 4. Add LiquidLoading.jar via the addon manager
 5. Click launch
