@@ -21,3 +21,7 @@ TIP: change language at ~/.cubewhy/lunarcn/celestial.json, "zh" -> Chinese;
 3. Click `Weave Mods`
 4. Add LiquidLoading.jar via the addon manager
 5. Click launch
+
+## Showcase
+
+![image1](/images/showcase1.png)
