@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f51f6f21-4ca8-4ecf-9ebd-15497d3a3d65" name="Changes" comment="INIT COMMIT">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="f51f6f21-4ca8-4ecf-9ebd-15497d3a3d65" name="Changes" comment="readme" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,7 +114,7 @@
       <workItem from="1704609533085" duration="1418000" />
       <workItem from="1704613142970" duration="74000" />
       <workItem from="1704613225324" duration="596000" />
-      <workItem from="1704616680030" duration="1743000" />
+      <workItem from="1704616680030" duration="2116000" />
     </task>
     <task id="LOCAL-00001" summary="INIT COMMIT">
       <option name="closed" value="true" />
@@ -127,7 +124,31 @@
       <option name="project" value="LOCAL" />
       <updated>1704617613255</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="readme">
+      <option name="closed" value="true" />
+      <created>1704618453022</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704618453022</updated>
+    </task>
+    <task id="LOCAL-00003" summary="readme">
+      <option name="closed" value="true" />
+      <created>1704618665523</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704618665523</updated>
+    </task>
+    <task id="LOCAL-00004" summary="readme">
+      <option name="closed" value="true" />
+      <created>1704618698724</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704618698724</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +169,7 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="INIT COMMIT" />
-    <option name="LAST_COMMIT_MESSAGE" value="INIT COMMIT" />
+    <MESSAGE value="readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme" />
   </component>
 </project>
