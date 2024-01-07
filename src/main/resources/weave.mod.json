@@ -1,0 +1,10 @@
+{
+  "mixinConfigs": [
+    "ll.mixins.json"
+  ],
+  "entrypoints": [
+    "org.cubewhy.loading.ModEntry"
+  ],
+  "hooks": [
+  ]
+}

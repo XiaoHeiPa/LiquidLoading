@@ -1,0 +1,8 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "org.cubewhy.loading.mixins",
+  "mixins": [
+    "MixinGuiConnecting"
+  ]
+}
